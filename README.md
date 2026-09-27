@@ -2,7 +2,7 @@
   <img src="./dylan-data-f1-github-banner.png" alt="Dylan - F1 Data & Performance Analyst">
 </p>
 
-<h1 align="center">Hi, I'm Dylan 👋</h1>
+<h1 align="center">Hi, I'm Dylan RAMI👋</h1>
 
 <p align="center">
   <strong>Data & AI Student · Aspiring F1 Data & Performance Analyst 🏎️</strong>
