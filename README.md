@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dylan-f1-github-banner.png" alt="Dylan - F1 Data & Performance Analyst">
+  <img src="./dylan-data-f1-github-banner.png" alt="Dylan - F1 Data & Performance Analyst">
 </p>
 
 <h1 align="center">Hi, I'm Dylan 👋</h1>
